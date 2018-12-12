@@ -8,4 +8,4 @@
 
 REPORT YHELLOWORLD.
 
-WRITE: / 'hello australia'.
+WRITE: / 'hello Australia'.
